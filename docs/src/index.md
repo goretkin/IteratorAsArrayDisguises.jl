@@ -1,0 +1,3 @@
+# IteratorAsArrayDisguises
+
+*Documentation goes here.*

@@ -1,0 +1,3 @@
+module IteratorAsArrayDisguises
+
+end # module
