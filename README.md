@@ -8,3 +8,5 @@
 ![Lifecycle](https://img.shields.io/badge/lifecycle-dormant-blue.svg) -->
 [![Build Status](https://travis-ci.com/goretkin/IteratorAsArrayDisguises.jl.svg?branch=master)](https://travis-ci.com/goretkin/IteratorAsArrayDisguises.jl)
 [![codecov.io](http://codecov.io/github/goretkin/IteratorAsArrayDisguises.jl/coverage.svg?branch=master)](http://codecov.io/github/goretkin/IteratorAsArrayDisguises.jl?branch=master)
+
+See `runtests.jl` to understand the use case.

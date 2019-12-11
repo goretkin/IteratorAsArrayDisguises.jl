@@ -3,13 +3,11 @@ uuid = "ec188ce1-400c-40df-b9d7-87fb80ad4939"
 authors = ["Gustavo Goretkin <gustavo.goretkin@gmail.com>"]
 version = "0.1.0"
 
-[deps]
+[compat]
+julia = "^1"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [targets]
 test = ["Test"]
-
-[compat]
-julia = "^1"
